@@ -54,30 +54,23 @@ Segmenting customers based on purchasing behavior to enable targeted business st
 Analyzing logistics and fulfillment efficiency to identify bottlenecks and improvement areas.
 
 - On-time vs. late delivery rates  
-- Average delivery duration by region/category  
-- Delivery performance trends over time  
+ 
 
 ---
 
 ### 4. 💰 Revenue Analysis
 Deep-dive into revenue patterns to support strategic business decisions.
 
-- Total revenue by product category and time period  
-- Month-over-Month (MoM) and Year-over-Year (YoY) growth  
-- Top-performing products and customer contribution  
-- Revenue distribution across segments  
+- Monthly revenue trends across 2016–2018 
+ 
 
 ---
 
 ## 💡 Key Business Insights
 
-- At Risk customers is 39% from all of the customers
-- Last Mile delivery approximate 9 days which is 82% of total delivery time
-- On-time delivery rate is 91%
-
-- 📌 Customer segmentation reveals distinct purchasing patterns that can inform marketing strategy  
-- 📌 Delivery performance metrics highlight operational gaps in fulfillment  
-- 📌 Revenue trends indicate seasonal patterns worth targeting for campaigns  
+- 📌 At Risk customers is 39% from all of the customers
+- 📌 Last Mile delivery approximate 9 days which is 82% of total delivery time
+- 📌 On-time delivery rate is 91% 
 
 ---
 
@@ -87,4 +80,6 @@ Deep-dive into revenue patterns to support strategic business decisions.
 
 **Pannatas Buranakitjaroen**  
 Civil Engineering graduate transitioning into Data Analytics  
-📧 pannatas.b@gmail.com | 🔗 [LinkedIn](https://linkedin.com)
+📧 pannatas.b@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/pannatas-buranakitjaroen-949039196)
+
+
