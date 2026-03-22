@@ -71,7 +71,9 @@ Deep-dive into revenue patterns to support strategic business decisions.
 
 ## 💡 Key Business Insights
 
-> _Insights will be updated as analysis is finalized._
+- At Risk customers is 39% from all of the customers
+- Last Mile delivery approximate 9 days which is 82% of total delivery time
+- On-time delivery rate is 91%
 
 - 📌 Customer segmentation reveals distinct purchasing patterns that can inform marketing strategy  
 - 📌 Delivery performance metrics highlight operational gaps in fulfillment  
@@ -79,21 +81,10 @@ Deep-dive into revenue patterns to support strategic business decisions.
 
 ---
 
-## 🚀 How to Use
 
-1. Clone this repository
-```bash
-   git clone https://github.com/your-username/sql-eda-project.git
-```
-2. Open SSMS and connect to your SQL Server instance  
-3. Restore or attach the E-Commerce dataset  
-4. Run scripts in the following order:
-   - `Check data.sql` → `Revenue Analysis.sql` → `Customer Segmentation.sql` → `Delivery Performance.sql`
-
----
 
 ## 👤 Author
 
-**[Your Name]**  
+**Pannatas Buranakitjaroen**  
 Civil Engineering graduate transitioning into Data Analytics  
-📧 your.email@example.com | 🔗 [LinkedIn](https://linkedin.com)
+📧 pannatas.b@gmail.com | 🔗 [LinkedIn](https://linkedin.com)
