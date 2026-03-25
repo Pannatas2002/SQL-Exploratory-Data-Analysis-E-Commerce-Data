@@ -70,7 +70,8 @@ Deep-dive into revenue patterns to support strategic business decisions.
 
 - 📌 At Risk customers is 39% from all of the customers
 - 📌 Last Mile delivery approximate 9 days which is 82% of total delivery time
-- 📌 On-time delivery rate is 91% 
+- 📌 On-time delivery rate is 91%
+- 📌 bed_bath_table is the top revenue-generating category at 1.67M BRL, followed by health_beauty and computers_accessories
 
 ---
 
