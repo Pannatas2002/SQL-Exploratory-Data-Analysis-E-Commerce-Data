@@ -19,12 +19,12 @@ This project demonstrates a comprehensive data exploration and analytics workflo
 
 ## 📁 Project Structure
 ```
-sql-eda-project/
-│
-├── Check data.sql            # Initial data exploration & quality checks
-├── Customer Segmentation.sql # Customer segmentation analysis
-├── Delivery Performance.sql  # Delivery & logistics performance analysis
-└── Revenue Analysis.sql      # Revenue trends & business performance
+scripts/
+├── Check data.sql
+├── Customer Segmentation.sql
+├── Delivery Performance.sql
+├── Product Revenue Analysis.sql
+└── Revenue Analysis.sql
 ```
 
 ---
